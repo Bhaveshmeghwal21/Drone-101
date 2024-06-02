@@ -15,4 +15,6 @@ As we know it, every UAV need some kind of device to convert engine power to usa
 
 A propeller normally consists of two or more blades attached to a central hub which ts mounted on a brushless DC motor or engine crankshaft. The purpose of the propeller is to convert rotation power to useful thrust. The blades, which are actually rotating wings have a leading edge, traillng edge, tip, shank, face and back as shown in Figures. The fixed-pitch propeller is the most Widely used propeller design in aviation. A fixed-pitch propeller may be made of wood, aluminum, or steel and is considered to be of one-piece construction with a blade angle that cannot normally be changed.
 
+![](https://www.researchgate.net/publication/348293295/figure/fig4/AS:1080276746809427@1634569455340/Basic-nomenclature-of-propellers-24.jpg)
+
 For advance info about you can check out [Aircraft propellers and controls](https://shashibgroup.org/elearning/PDF/General-Books/Aircraft-propeller-controls-by-Frank-Delf.pdf)
