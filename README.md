@@ -12,6 +12,7 @@ for more details check out [Everything you need to know about drones](https://dr
 # Components of drones?
 ## Propellers 
 As we know it, every UAV need some kind of device to convert engine power to usable form term thrust. With few exceptions nearly all of the early practical UAV designs used propellers to create a necessary thrust.
-To make it short we will only discuss about fixed pitch propellers ( net average or the net pitch of the propeller remains constant. Such a propeller is a fixed-pitch propeller) 
+
+A propeller normally consists of two or more blades attached to a central hub which ts mounted on a brushless DC motor or engine crankshaft. The purpose of the propeller is to convert rotation power to useful thrust. The blades, which are actually rotating wings have a leading edge, traillng edge, tip, shank, face and back as shown in Figures. The fixed-pitch propeller is the most Widely used propeller design in aviation. A fixed-pitch propeller may be made of wood, aluminum, or steel and is considered to be of one-piece construction with a blade angle that cannot normally be changed.
 
 For advance info about you can check out [Aircraft propellers and controls](https://shashibgroup.org/elearning/PDF/General-Books/Aircraft-propeller-controls-by-Frank-Delf.pdf)
