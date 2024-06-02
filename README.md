@@ -45,4 +45,4 @@ In reality, all the most recent drones utilize a brushless electric “out-runne
  It uses an electronic controller to switch DC currents to the motor windings producing magnetic fields that effectively rotate in space and which the permanent magnet rotor follows. 
  For working principle of BLDC motor check out [BLDC](https://www.automate.org/motion-control/blogs/what-is-a-brushless-dc-motor-and-how-does-it-work#:~:text=A%20brushless%20DC%20motor%20is%20essentially%20flipped%20inside,stator%20to%20rotate%20the%20rotor%20a%20full%20360-degrees.)
 
- ![](https://valuehobby.com/emax-mt2213-regular.html#mz-expanded-view-1235635227929)
+ ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/mt2213.jpg)
