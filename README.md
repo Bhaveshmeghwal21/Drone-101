@@ -19,5 +19,21 @@ A propeller normally consists of two or more blades attached to a central hub wh
 
 
 
-For advance info about you can check out [Aircraft propellers and controls](https://shashibgroup.org/elearning/PDF/General-Books/Aircraft-propeller-controls-by-Frank-Delf.pdf)
+For advance info about propellers check out [Aircraft propellers and controls](https://shashibgroup.org/elearning/PDF/General-Books/Aircraft-propeller-controls-by-Frank-Delf.pdf)
 ## Frame
+A drone frame is the structural chassis or body of the drone that supports and holds all its components together, including the motors, propellers, flight controller, battery, and payload. The frame is typically made from materials like carbon fiber, aluminum, plastic, or composite materials, chosen for their strength, durability, and lightweight properties.
+- Structural Integrity:
+The frame provides the necessary strength and rigidity to withstand the forces and stresses experienced during flight, including impacts and vibrations. A well-designed frame ensures the drone remains stable and intact.
+- Weight Management:
+The frame’s material and design significantly influence the drone’s overall weight. A lightweight yet strong frame is essential for optimizing flight performance, increasing flight time, and enhancing maneuverability.
+- Component Support and Protection:
+The frame securely holds all the drone’s components in place, ensuring they function correctly. It also provides protection to sensitive parts like the flight controller, cameras, and sensors from damage during crashes or rough landings.
+- Aerodynamics:
+The frame design affects the drone’s aerodynamics, impacting its efficiency, stability, and speed. A streamlined frame reduces air resistance, allowing for smoother and more efficient flight.
+- Customization and Modularity:
+Many drone frames are designed to be modular, allowing for easy customization and upgrades. This flexibility enables users to add or replace components, such as different types of cameras, sensors, or payloads, to suit specific applications.
+- Durability and Longevity:
+A high-quality frame made from durable materials can extend the drone’s lifespan by withstanding wear and tear. This durability is crucial for drones used in demanding environments or for professional purposes.
+- Safety:
+A robust frame contributes to the overall safety of the drone by ensuring that critical components remain protected during operation. It also helps prevent parts from coming loose or getting damaged, which could lead to malfunctions or accidents.
+![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/Screenshot%202024-06-03%20000613.png)
