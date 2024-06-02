@@ -39,7 +39,7 @@ A robust frame contributes to the overall safety of the drone by ensuring that c
 ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/Screenshot%202024-06-03%20000613.png)
 
 
-Brushless Motors -
+## Brushless Motors -
 A brushless DC motor (also known as a BLDC motor or BL motor) is an electronically commuted DC motor which does not have brushes. The controller provides pulses of current to the motor windings which control the speed and torque of the synchronous motor.
 In reality, all the most recent drones utilize a brushless electric “out-runner” genre, making it one of the essential components of a drone. This is more reliable, more efficient, and quieter compared to a brushed motor. Motor with higher efficiency not only saves battery life but also gives the operator more flying time.
  It uses an electronic controller to switch DC currents to the motor windings producing magnetic fields that effectively rotate in space and which the permanent magnet rotor follows. 
