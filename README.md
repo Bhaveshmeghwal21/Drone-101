@@ -12,3 +12,6 @@ for more details check out [Everything you need to know about drones](https://dr
 # Components of drones?
 ## Propellers 
 As we know it, every UAV need some kind of device to convert engine power to usable form term thrust. With few exceptions nearly all of the early practical UAV designs used propellers to create a necessary thrust.
+To make it short we will only discuss about fixed pitch propellers ( net average or the net pitch of the propeller remains constant. Such a propeller is a fixed-pitch propeller) 
+
+For advance info about you can check out [Aircraft propellers and controls](https://www.bing.com/ck/a?!&&p=b2381962856a0c85JmltdHM9MTcxNzI4NjQwMCZpZ3VpZD0wYzE4ZjdlYi05ZDdjLTYzZDgtMjQxMi1lNGIxOWM4ZTYyMzUmaW5zaWQ9NTI3OQ&ptn=3&ver=2&hsh=3&fclid=0c18f7eb-9d7c-63d8-2412-e4b19c8e6235&psq=aircraft+propellers+and+controls+pdf&u=a1aHR0cHM6Ly9zaGFzaGliZ3JvdXAub3JnL2VsZWFybmluZy9QREYvR2VuZXJhbC1Cb29rcy9BaXJjcmFmdC1wcm9wZWxsZXItY29udHJvbHMtYnktRnJhbmstRGVsZi5wZGY&ntb=1)
