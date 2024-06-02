@@ -37,3 +37,12 @@ A high-quality frame made from durable materials can extend the drone’s lifesp
 - Safety:
 A robust frame contributes to the overall safety of the drone by ensuring that critical components remain protected during operation. It also helps prevent parts from coming loose or getting damaged, which could lead to malfunctions or accidents.
 ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/Screenshot%202024-06-03%20000613.png)
+
+
+Brushless Motors -
+A brushless DC motor (also known as a BLDC motor or BL motor) is an electronically commuted DC motor which does not have brushes. The controller provides pulses of current to the motor windings which control the speed and torque of the synchronous motor.
+In reality, all the most recent drones utilize a brushless electric “out-runner” genre, making it one of the essential components of a drone. This is more reliable, more efficient, and quieter compared to a brushed motor. Motor with higher efficiency not only saves battery life but also gives the operator more flying time.
+ It uses an electronic controller to switch DC currents to the motor windings producing magnetic fields that effectively rotate in space and which the permanent magnet rotor follows. 
+ For working principle of BLDC motor check out [BLDC](https://www.automate.org/motion-control/blogs/what-is-a-brushless-dc-motor-and-how-does-it-work#:~:text=A%20brushless%20DC%20motor%20is%20essentially%20flipped%20inside,stator%20to%20rotate%20the%20rotor%20a%20full%20360-degrees.)
+
+ ![](https://valuehobby.com/emax-mt2213-regular.html#mz-expanded-view-1235635227929)
