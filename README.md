@@ -46,7 +46,9 @@ personal opinion, there is nothing to fear from LiPo batteries, so long as you f
 
 ### Lipo battery Parameters 
 We can see there are some Parameters on this Lipo battery, they are Battery Capacity, Battery Voltage, Cell Configuration and Discharge Rate.
+
 ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/lipo%20battery%20specs.jpeg)
+
 - **Discharge Rating:** The Discharge Rating of a battery is a measure of the maximum rate at which current can be drawn from the battery. Although motors have a rated average current draw rate, there may be certain instances where this its draw rate can spike, such as when it is moving at maximum speed or when it is lifting a heavy payload.
 A battery’s discharge rating is typically expressed as a multiple of its capacity. For example, a battery with a discharge rating of 50C can safely supply a current draw that is 50 times its capacity. For a 5000mAh battery, current can be safely drawn up to 250A. Beyond this draw rate, the battery runs the risk of suffering permanent damage.
 Modern LiPo batteries usually have two discharge ratings: the Continuous Rating (or C Rating) and the Burst Rating. The C Rating, as its name implies, applies to a continuous current draw and is always lower than the Burst Rating. On the other hand, the Burst Rating is only acceptable for 10-second bursts of extra-heavy motor operations.
