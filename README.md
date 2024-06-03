@@ -63,6 +63,6 @@ for eg check out this [emax mt2213-935Kv](https://robu.in/product/emax-mt2213-93
  ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/mt2213.jpg)
  
 ## Electronic speed controller
-The electronic speed controller (ESC) is an essential part of an electric propulsion system’s hardware. It acts like the brain of the system by telling the motor how fast to go based on data signals it receives from the throttle controller.
-For smaller applications like drones and RC vehicles, this controller has the name ‘ESC’, whereas for larger manufacturing applications it may be called an electronic control unit, inverter, or motor controller.
+The electronic speed controller (ESC) is an essential part of an electric propulsion system’s hardware. It acts like the brain of the system by telling the motor how fast to go based on data signals it receives from the throttle controller.For smaller applications like drones and RC vehicles, this controller has the name ‘ESC’, whereas for larger manufacturing applications it may be called an electronic control unit, inverter, or motor controller. Also, it plays a role in converting DC battery power into 3-phase AC for running brushless motors.
+
 The mechanism within the ESC as well as its interaction with the battery and motor are quite fascinating.(you can check out [this article](https://www.tytorobotics.com/blogs/articles/what-is-an-esc-how-does-an-esc-work)
