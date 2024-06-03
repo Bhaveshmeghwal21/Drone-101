@@ -38,6 +38,15 @@ A high-quality frame made from durable materials can extend the drone’s lifesp
 A robust frame contributes to the overall safety of the drone by ensuring that critical components remain protected during operation. It also helps prevent parts from coming loose or getting damaged, which could lead to malfunctions or accidents.
 ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/Screenshot%202024-06-03%20000613.png)
 
+## Lipo Battery
+Lipo Battery, its full name is lithium polymer battery, people also called Li-po battery, or more correctly lithium-ion polymer battery (abbreviated as LiPo, LIP, Li-poly and others). Lipo is a rechargeable battery of lithium-ion technology using a polymer electrolyte instead of a liquid one. High conductivity semisolid polymers form this electrolyte. These lipo batteries provide a higher specific energy than other lithium battery types.
+
+LiPo batteries offer a wide array of benefits. But each user must decide if the benefits outweigh the drawbacks. For more and more people, they do. In my 
+personal opinion, there is nothing to fear from LiPo batteries, so long as you follow the rules and treat the batteries with the respect they deserve.
+
+### Lipo battery
+We can see there are some Parameters on this Lipo battery, they are Battery Capacity, Battery Voltage, Cell Configuration and Discharge Rate.
+![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/lipo%20battery%20specs.jpeg)
 
 ## Brushless Motors -
 A brushless DC motor (also known as a BLDC motor or BL motor) is an electronically commuted DC motor which does not have brushes. The controller provides pulses of current to the motor windings which control the speed and torque of the synchronous motor.
