@@ -177,3 +177,22 @@ To calibrate your ESC with the motor and RC transmitter, refer to the tutorial, 
 
 _**[Reference](https://robu.in/how-to-choose-esc-for-your-quadcopter/#Electronics_Speed_Controller_Firmware)**_
 
+
+## Flight Controller 
+The Flight Controller (FC) serves as the brain of the aircraft, equipped with sensors to detect drone movements and user commands. It processes this data to precisely control the motor speed, enabling the drone to maneuver as directed.
+The primary role of a flight controller is to stabilize the drone during flight, ensuring it remains level and maintains its desired altitude. It achieves this by constantly monitoring the drone’s orientation using onboard sensors such as accelerometers and gyroscopes. These sensors provide real-time data on the drone’s pitch, roll, and yaw, allowing the flight controller to make instant adjustments to maintain stability.
+Furthermore, a flight controller is responsible for executing various flight modes and maneuvers. These modes can include different levels of stability, such as Manual Mode, where the pilot has full control, or Autonomous Mode, where the drone can follow pre-programmed flight paths or perform automated tasks.
+
+Flight controllers also play a crucial role in implementing safety features to prevent accidents and improve flight reliability. They can include fail-safe mechanisms that automatically initiate emergency landing procedures or return the drone to its takeoff location in the event of a signal loss or low battery voltage.
+
+In addition to controlling the flight, a flight controller interacts with other onboard components, such as the GPS receiver, compass and barometer. These sensors provide vital information for features like position hold, altitude hold, and automatic return to home functionalities.
+### Pixhawk
+Pixhawk is an independent open-hardware project providing readily-available, low-cost, and high-end, autopilot hardware designs to the academic, hobby and industrial communities. It is a project for the development of Opensource computer hardware.
+
+![](https://ardupilot.org/copter/_images/Pixhawk_with_legend.jpg)
+
+### FPV Drone flight Controller
+FPV Flight Controllers are designed for drones that are flown using FPV goggles or monitors, which provide a real-time video feed from the drone to the pilot. This setup allows for a more immersive flying experience and is commonly used in drone racing and freestyle flying
+**NOTE** FPV flight controllers cannot be connected to GPS, onbaord computers
+
+![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/EMAX-Skyline32-Naze32-Flight-Controller-for-QAV250-Quadcopter-300x300.jpg)
