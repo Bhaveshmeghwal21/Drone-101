@@ -216,3 +216,15 @@ Cameras in drones have become an essential component, significantly enhancing th
 - and many more
 
 ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/GoPro-Black-Bones_Cinelog_HD30_On_Black_4K.jpg)
+
+
+## Companion Computer 
+Let's think of a familiar example to make the concept more digestable!!
+
+Think of your desktop computer. On this desktop computer, you have things like calculators, calendars, internet browsers etc. These are called apps. The developers used the OS sandbox and wrote in new functionality to the computer through their programs.
+
+Well, the same concept applies for drones. What if you wanted to add some higher functionality into your drone that isn’t supplied out of the box, like gesture control, computer vision, python control, 4G drone telemetry, taco delivery etc? 
+
+That is where the companion computer steps in. This is the device that we can use to introduce new functionalities onto our drone. 
+### Flight Controller vs Companion Computer
+![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/jetson%20nano.jpeg)
