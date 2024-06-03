@@ -101,7 +101,7 @@ ESC firmware is the software that is running on each ESC. It determines the perf
 Out of these, BLheli firmware and Simonk firmware are open sources, and KISS firmware is closed source, meaning it can run with only KISS ESC.
 ### 5. BEC 
 BEC stands for Battery Elimination Circuit. The BEC provides the constant current at a specific voltage. It has a 5V output for powering the flight controller, a radio receiver (RX), and other 5V components. But nowadays, in the quadcopter system, the power distribution board is used, so we don’t need ESCs with BEC.
-The ESC without BES is known as the Opto ESC. Without the 5V BEC, your flight controller and RX will require a separate power source. As per the above image, an Optp ESC doesn't have the “red” servo wire. It uses only the signal and ground wire.
+The ESC without BES is known as the Opto ESC. Without the 5V BEC, your flight controller and RX will require a separate power source. As per the above image(1), an Optp ESC doesn't have the “red” servo wire. It uses only the signal and ground wire.
 
 ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/EMAX-BLHELI-30A-600x600.jpg) 
 (1)
@@ -135,5 +135,5 @@ I hope this article helps you learn about the basics of ESCs. With the help of t
 
 To calibrate your ESC with the motor and RC transmitter, refer to the tutorial, [Connecting motors and calibrating ESCs](https://robu.in/connecting-motors-and-calibrating-escs/)
 
-_**[Reference](https://robu.in/how-to-choose-esc-for-your-quadcopter/#Electronics_Speed_Controller_Firmware)
+_**[Reference](https://robu.in/how-to-choose-esc-for-your-quadcopter/#Electronics_Speed_Controller_Firmware)**_
 
