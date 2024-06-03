@@ -194,6 +194,25 @@ Pixhawk is an independent open-hardware project providing readily-available, low
 ### FPV Drone flight Controller
 FPV Flight Controllers are designed for drones that are flown using FPV goggles or monitors, which provide a real-time video feed from the drone to the pilot. This setup allows for a more immersive flying experience and is commonly used in drone racing and freestyle flying
 
-**NOTE** FPV flight controllers cannot be connected to GPS, onbaord computers
+**NOTE** Generally FPV flight controllers cannot be connected onbaord computers and does not support advance sensors
 
 ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/EMAX-Skyline32-Naze32-Flight-Controller-for-QAV250-Quadcopter-300x300.jpg)
+
+## GPS Module
+GPS modules operate based on a network of satellites that orbit the Earth. These satellites transmit precise microwave signals. The GPS module receives these signals and uses the data to calculate the user’s exact location.
+
+By combining both the GPS receiver and magnetometer, the GPD module provides longitude, latitude, elevation, and compass heading from a single device. GPS is a vital element for waypoint navigation and various other autonomous flight modes.
+
+Most of the drones enable you to program in a failsafe home point. It means that the drone can fly back to a position if it is disconnected from the remote controller. The requirement of satellites is essential for most drones. If you are going to buy a drone, consider the one that comes with both GPS and Glonass.
+
+![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/GPS%20module.png)
+
+## Camera 
+Cameras in drones have become an essential component, significantly enhancing the capabilities and applications of drones across various fields. Here’s an overview of the importance and functionalities of drone cameras:
+- Aerial Photography and Videography
+- Surveillance and Security
+- Inspection and Maintenance
+- Agricultural Monitoring
+- and many more
+
+![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/GoPro-Black-Bones_Cinelog_HD30_On_Black_4K.jpg)
