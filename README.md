@@ -17,7 +17,7 @@ As we know it, every UAV need some kind of device to convert engine power to usa
 
 A propeller normally consists of two or more blades attached to a central hub which ts mounted on a brushless DC motor or engine crankshaft. The purpose of the propeller is to convert rotation power to useful thrust. The blades, which are actually rotating wings have a leading edge, traillng edge, tip, shank, face and back as shown in Figures. The fixed-pitch propeller is the most Widely used propeller design in aviation. A fixed-pitch propeller may be made of wood, aluminum, or steel and is considered to be of one-piece construction with a blade angle that cannot normally be changed.
 
-
+![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/propeller%20labelled.jpg)
 
 For advance info about propellers check out [Aircraft propellers and controls](https://shashibgroup.org/elearning/PDF/General-Books/Aircraft-propeller-controls-by-Frank-Delf.pdf)
 ## Frame
@@ -66,3 +66,12 @@ for eg check out this [emax mt2213-935Kv](https://robu.in/product/emax-mt2213-93
 The electronic speed controller (ESC) is an essential part of an electric propulsion system’s hardware. It acts like the brain of the system by telling the motor how fast to go based on data signals it receives from the throttle controller.For smaller applications like drones and RC vehicles, this controller has the name ‘ESC’, whereas for larger manufacturing applications it may be called an electronic control unit, inverter, or motor controller. Also, it plays a role in converting DC battery power into 3-phase AC for running brushless motors.
 
 The mechanism within the ESC as well as its interaction with the battery and motor are quite fascinating.(you can check out [this article](https://www.tytorobotics.com/blogs/articles/what-is-an-esc-how-does-an-esc-work)
+The good-quality ESC gives a reliable and smooth flight experience. Several factors are considered while selecting the ESC, and they are as follows:
+1. Current Rating
+2. Input Voltage Rating
+3. Weight and Size
+4. ESC Firmware
+5. BEC
+6. Connection of ESC
+7. ESC processors
+8. ESC Protocols
