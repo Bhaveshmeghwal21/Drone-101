@@ -193,6 +193,7 @@ Pixhawk is an independent open-hardware project providing readily-available, low
 
 ### FPV Drone flight Controller
 FPV Flight Controllers are designed for drones that are flown using FPV goggles or monitors, which provide a real-time video feed from the drone to the pilot. This setup allows for a more immersive flying experience and is commonly used in drone racing and freestyle flying
+
 **NOTE** FPV flight controllers cannot be connected to GPS, onbaord computers
 
 ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/EMAX-Skyline32-Naze32-Flight-Controller-for-QAV250-Quadcopter-300x300.jpg)
