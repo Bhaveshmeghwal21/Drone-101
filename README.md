@@ -103,4 +103,12 @@ Out of these, BLheli firmware and Simonk firmware are open sources, and KISS fir
 BEC stands for Battery Elimination Circuit. The BEC provides the constant current at a specific voltage. It has a 5V output for powering the flight controller, a radio receiver (RX), and other 5V components. But nowadays, in the quadcopter system, the power distribution board is used, so we don’t need ESCs with BEC.
 The ESC without BES is known as the Opto ESC. Without the 5V BEC, your flight controller and RX will require a separate power source. As per the above image, an Optp ESC doesn't have the “red” servo wire. It uses only the signal and ground wire.
 
-![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/EMAX-BLHELI-30A-600x600.jpg) ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/without%20BEC%20esc.jpg)
+![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/EMAX-BLHELI-30A-600x600.jpg) 
+(1)
+![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/without%20BEC%20esc.jpg)
+(2)
+
+### 6. Connection of Electronics Speed controller with Motor
+ESC uses a LiPo battery to power up. The signal received from the flight controller controls the speed of the motor. A brushless ESC has three wires that it directly plugs into or gets soldered to the 3 wires of the motor.  The below image shows the single standalone ESC with LIPO battery, RC receiver, and brushless motor.
+
+![](https://robu.in/wp-content/uploads/2021/01/SimonK-30A-BLDC-ESC-1-1.jpg)
