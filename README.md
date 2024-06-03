@@ -1,17 +1,17 @@
 # Drone-101
 Hey Drone enthusiasts!! If you are a beginner in dronetech then it is the ultimate guide to start your drone journey. So ladies and gentlemen, welcome aboard Drone 101. Please tighten your seat belts and get ready for takeoff as we embark on an exciting journey into the world of drones. 🚀
 
-# What is Drone and why should we learn about drones ??
+# What is Drone and why should we learn about drones ?
 An unmanned aerial vehicle (UAV), commonly known as a drone, is an aircraft without any human pilot, crew, or passengers on board.Drones, or Unmanned Aerial Vehicles (UAVs), offer significant benefits across various industries by providing unique aerial perspectives for photography and videography, precise mapping and surveying capabilities, and efficient agricultural monitoring. They enhance safety and efficiency in inspection and maintenance of hard-to-reach infrastructure, support disaster management and search and rescue operations, and facilitate environmental monitoring and scientific research. Additionally, drones streamline delivery services, assist in law enforcement and security, and provide new entertainment and recreational opportunities. Their cost-effectiveness, speed, and precision make them invaluable tools for improving productivity and achieving tasks that were previously difficult or impossible.
 Basically, a drone is a flying robot which can be under remote control or fly autonomously via software-controlled flight plans in its embedded systems, working in collaboration with onboard sensors and GPS.
 
 ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/Screenshot%202024-06-02%20114027.png)
 
-## Type of drones
+## Type of drone
 Basically, there are two main types of drone platforms: rotor and fixed-wing. In particular, rotor type is then divided into single-rotor or multi-rotor such as tricopters, quadcopters, hexacopters, and octocopters. While, on the other hand, the fixed-wing genre includes the hybrid vertical takeoff and landing drones that don’t call for runways.
 for more details check out [Everything you need to know about drones](https://droneforbeginners.com/drones-guide/)
 
-# Components of drones
+# Components of drone
 ## Propellers 
 As we know it, every UAV need some kind of device to convert engine power to usable form term thrust. With few exceptions nearly all of the early practical UAV designs used propellers to create a necessary thrust.
 
@@ -44,9 +44,40 @@ Lipo Battery, its full name is lithium polymer battery, people also called Li-po
 LiPo batteries offer a wide array of benefits. But each user must decide if the benefits outweigh the drawbacks. For more and more people, they do. In my 
 personal opinion, there is nothing to fear from LiPo batteries, so long as you follow the rules and treat the batteries with the respect they deserve.
 
-### Lipo battery
+### Lipo battery Parameters 
 We can see there are some Parameters on this Lipo battery, they are Battery Capacity, Battery Voltage, Cell Configuration and Discharge Rate.
 ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/lipo%20battery%20specs.jpeg)
+- **Discharge Rating:** The Discharge Rating of a battery is a measure of the maximum rate at which current can be drawn from the battery. Although motors have a rated average current draw rate, there may be certain instances where this its draw rate can spike, such as when it is moving at maximum speed or when it is lifting a heavy payload.
+A battery’s discharge rating is typically expressed as a multiple of its capacity. For example, a battery with a discharge rating of 50C can safely supply a current draw that is 50 times its capacity. For a 5000mAh battery, current can be safely drawn up to 250A. Beyond this draw rate, the battery runs the risk of suffering permanent damage.
+Modern LiPo batteries usually have two discharge ratings: the Continuous Rating (or C Rating) and the Burst Rating. The C Rating, as its name implies, applies to a continuous current draw and is always lower than the Burst Rating. On the other hand, the Burst Rating is only acceptable for 10-second bursts of extra-heavy motor operations.
+To check if your battery’s discharge rating is compatible with the current draw of your motor, you will need to check the motor’s rated maximum continuous draw and its burst draw. It is generally recommended to select a battery that has ratings a little higher than the requirements of your motor. You don’t have to go overboard, though – a 10% to 20% “over-rating” should suffice so that you don’t end up buying an unnecessarily powerful and expensive battery.
+- **Cell Configuration:** A battery is constructed from rectangular cells which are connected together to form the battery. A cell which can be considered a battery in itself, holds a nominal voltage of 3.7V. By connecting more of these in series, the voltage can increase to 22.2v for a 6 cell battery, 14.8V for a 4 cell battery and so on. By connecting more batteries in parallel the capacity can be increased. Often you will see numbers like 
+3S2P, which mean the battery as 4 cells (4S) connected in series, and there are 2 cell sets connected in parallel (2P) , giving a total number of 6 individual sells in the battery. So the number of cells is what defines the voltage of the battery. Having a higher voltage means the battery can provide more power to drive bigger motors, however more power does not necessarily mean the battery will provide energy for longer, that is defined by the battery capacity.
+- **Battery Voltage:** A LiPo cell has a nominal voltage of 3.7V, and a lipo cell = 1 cell = 1S = 3.7V. For the 14.8V battery above, that means that there are four cells in series (which means the voltage gets added together). This is sometimes why you will hear people talk about a “4S” battery pack – it means that there are 4 cells in Series. So a four-cell (4S) pack is 14.8V, a three-cell (3S) pack is 11.1V, and so on.
+The voltage of a Lipo battery pack is essentially going to determine how fast your vehicle is going to go. Voltage directly influences the RPM of the electric motor (brushless motors are rated by kV, which means ‘RPM per Volt’). So if you have a brushless motor with a rating of 3,500kV, that motor will spin 3,500 RPM for every volt you apply to it. On a 2S LiPo battery, that motor will spin around 25,900 RPM.
+- **Battery Capacity:**The capacity of a battery, typically expressed in milli-ampere hours (mAh), is a measure of how much charge the battery can hold. The mAh rating of a battery describes how much load it will take to completely discharge a battery in an hour. This can be easily correlated to the rated current draw of a motor to estimate just how long the battery can power the motor before it needs to be recharged.
+Generally, capacity can determines how long you can run before you have to recharge. A larger capacity pack may give you longer flight times but being heavier it will adversely affect performance. But it`s also influenced by the speed, the more quick you can flying your plane, the less time your flight time is. Because high speed means you need more power to drive your plane or others, so your power lost quickly.
+
+_**Tip** One rather strange yet interesting fact about Lithium Polymer Battery is that they should not be stored fully charged because they might get damaged that way. It is optimal that the cells are maintained at room temperature and charged a bit at every run. In previous times, people used to charge the batteries till they were fully charged and then used it till their last bit and then again fully charged them._
+from the above explaination and from our experience, these are the things you should note
+1) Capacity: 2200mAh = 2.2 Ah 
+2) 3S means 3 cells
+3) Minimum safe voltage per cell = 3.5V (min charge)
+4) Maximum safe voltage per cell = 4.2V (max charge)
+5) Storage voltage per cell = 3.8V (half charge)
+6) Always charge batteries at their 1C charging rate. (It will take about 1 hr to charge.)
+eg. 1C for 2200mAh=2.2Ah battery will be 2.2 A.
+7) Always balance charge batteries using balance charge feature of charger.
+8) Never leave batteries out of your sight while charging or discharging and immediately disconnect them when charging or discharging is completed otherwise batteries will swell.
+9) Always charge batteries away from flammable materials.
+10) Never leave batteries fully charged or discharged for more than 24 hrs as it will destroy the batteries.
+11) Always fully charge the batteries only 1 night before use.
+12) Always charge or discharge the batteries to their storage voltage when not to be used for more than 24 hrs.
+13) Use storage charge feature of charger for point (12).
+14) Never leave battery connected to the ESC when not using even for a few minutes as it will discharge quickly.
+15) Always connect both balance lead and main lead to the charger before performing any operation.
+16) Keep checking battery voltage during use to prevent over discharging.
+17) Reverse polarity connection with the ESC will immediately burn it.
 
 ## Brushless Motors -
 A brushless DC motor (also known as a BLDC motor or BL motor) is an electronically commuted DC motor which does not have brushes. The controller provides pulses of current to the motor windings which control the speed and torque of the synchronous motor.
