@@ -112,3 +112,28 @@ The ESC without BES is known as the Opto ESC. Without the 5V BEC, your flight co
 ESC uses a LiPo battery to power up. The signal received from the flight controller controls the speed of the motor. A brushless ESC has three wires that it directly plugs into or gets soldered to the 3 wires of the motor.  The below image shows the single standalone ESC with LIPO battery, RC receiver, and brushless motor.
 
 ![](https://robu.in/wp-content/uploads/2021/01/SimonK-30A-BLDC-ESC-1-1.jpg)
+
+### 7. ESC Protocols
+Protocols are like the operating system of the ESC. They determine how fast communication happens between the ESC and FC (flight controller), which plays a major role in the handling and performance of a quadcopter.
+
+Here is a list of current protocols used on quadcopters, from oldest to latest:
+
+- Standard PWM
+- Oneshot125
+- Oneshot42
+- Multishot
+- DShot
+- ProShot
+To know more about it refer to [Electronics Speed controller calibration Protocol](https://robu.in/what-is-oneshot-and-multishot-in-esc-difference-between-oneshot-and-multishot-esc-esc-calibration-protocol/)
+### 8. ESC Processors
+Most ESCs use processors from ATMEL, Silabs, and ARM Cortex. All these processors have different features and specifications and support different firmware.
+
+- ATMEL 8-bit is compatible with both SimonK and BLHeli firmware
+- SILABS 8-bit is compatible with  BLHeli or BLHeli_S only
+- ARM Cortex 32-bit (e.g. STM32 F0, F3, L4)  can run with BLHeli_3
+I hope this article helps you learn about the basics of ESCs. With the help of this article, you can easily choose the perfect ESC for your multirotor.
+
+To calibrate your ESC with the motor and RC transmitter, refer to the tutorial, [Connecting motors and calibrating ESCs](https://robu.in/connecting-motors-and-calibrating-escs/)
+
+_**[Reference](https://robu.in/how-to-choose-esc-for-your-quadcopter/#Electronics_Speed_Controller_Firmware)
+
