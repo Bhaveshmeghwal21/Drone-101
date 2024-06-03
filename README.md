@@ -45,12 +45,19 @@ In reality, all the most recent drones utilize a brushless electric “out-runne
  It uses an electronic controller to switch DC currents to the motor windings producing magnetic fields that effectively rotate in space and which the permanent magnet rotor follows. 
  For working principle of BLDC motor check out [BLDC](https://www.automate.org/motion-control/blogs/what-is-a-brushless-dc-motor-and-how-does-it-work#:~:text=A%20brushless%20DC%20motor%20is%20essentially%20flipped%20inside,stator%20to%20rotate%20the%20rotor%20a%20full%20360-degrees.)
 
- ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/mt2213.jpg)
 
 **Understanding BLDC motor specifications**
 Brushless motors use a standard numbering scheme to describe their physical size and Kv rating. For example: let's assume we have a 5055-3000Kv Brushless Outrunner Motor. We break the numbers out as follows:  [50] [55] - [3000]
 - [50] The first two numbers represent the diameter of the motor's housing in millimeters; in this example 50mm
 - [55] The second two numbers represent the length of the motor housing in millimeters; in this example 55mm
 - [3000] The numbers after the dash represent the Kv rating of the motor; in this example 3000Kv. The Kv rating (not to be confused with kilo-volt) is the RPM of the motor (k) per volt (V) with no load. For example, a brushless motor with a Kv rating of 3000 powered by a 12V power source would be capable of 36,000 RPMs (multiply 3000x12). This is the max RPMs that this motor can reach under no load. A motor with a higher Kv will have more top end speed, but not as much acceleration/torque. A motor with a lower Kv will not be as fast, but will accelerate faster and have more torque.
+**Note:**
+- The ideal number of rpm of a motor for you is dependent on what type of copter you’re looking for. For example, if you’re looking for a high performance, acrobatic copter, a high rpm motor is the one for you, meaning of course a high Kv rating. This is intuitive because these acrobatic copters are generally of the smaller variety, meaning a smaller motor, leading to smaller propellers. When you have these smaller propellers, the motors need to produce more rpm in order to produce the necessary thrust. However, this means that these motors use up more power than others, and so are less efficient.
+- On the other hand, if you would like your copter to use the least amount of power as possible, and so last longer and be more stable, then motors with lower rpm are ideal. An example for when these types of motors would be useful is in taking aerial photos. Again, this is partly due to the fact that the type of copters used for this these tasks are bigger in order to carry the necessary equipment, meaning larger propellers, which will create more thrust when rotated. They therefore require fewer rpm.
 
-  
+for more info check out[Brushless motors - how they work and what the numbers mean](https://www.dronetrest.com/t/brushless-motors-how-they-work-and-what-the-numbers-mean/564)
+
+for eg check out this [emax mt2213-935Kv](https://robu.in/product/emax-mt2213-935kv-bldc-motor-ccw-prop1045-combo-original/)
+
+ ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/mt2213.jpg)
+ 
