@@ -75,3 +75,27 @@ The good-quality ESC gives a reliable and smooth flight experience. Several fact
 6. Connection of ESC
 7. ESC processors
 8. ESC Protocols
+
+### 1. Current Rating-
+The first thing to consider when selecting an ESC is the current rating (ampere rating).  Motors draw current when they spin; if you draw more current than your Electronics Speed Controller's capacity, then it will start to overheat and eventually damage. You should decide on the current rating of the ESC after selecting a suitable motor size for your requirements. 
+Mostly 3 things can increase the current draw of your esc:
+- High KV ratings of the motor
+- Larger propellers (length and pitch)
+- Larger motor size (stator width and height)
+There are two current ratings of ESC, and they are continuous and burst. The continuous current rating indicates the maximum continuous current that ESC can handle safely. The burst rating means the maximum current that the ESC can handle for a short period (e.g., 10 seconds) without damaging the ESC itself.
+
+### 2. Input Voltage
+The voltage rating of an ESC is the maximum amount of voltage that your ESC can handle safely.  Some of the ESCs support 3S–4S battery voltage, while others can support 6S battery voltage. Here, make sure that they are compatible with the LiPo battery voltage. Powering your ESC with excessively high voltage will damage your ESC as well as the motor.
+
+### 3. Weight and Size 
+The weight and size of an ESC are dependent on its current rating. It is challenging to make ESCs lighter and smaller without losing their performance and effective cooling. Mostly, single standalone ESCs are designed with a weight of around 4 grams to 6 grams, and the 4-in-1 ESC weighs around 12 grams to 15 grams. Generally, the lighter ESCs have lower heat dissipation, which leads to concerns about overheating.
+
+### 4. Electronic Speed Controller Firmware
+ESC firmware is the software that is running on each ESC. It determines the performance of the ESC. The ESC firmware gives information about its supported protocols and configuration interface. There are different types of ESC firmware available.
+- BLHeli ESC.
+- BLHeli_S ESC
+- SimonK ESC
+- KISS firmware
+- BLHeli_32
+
+Out of these, BLheli firmware and Simonk firmware are open sources, and KISS firmware is closed source, meaning it can run with only KISS ESC.
