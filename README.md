@@ -273,6 +273,10 @@ We can find out the information about the drones which are equipped with LIDAR, 
 
 _Thermal Camera_
 
+![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/lidar.jpg)
+
+_Lidar_
+
 
 # Conclusion 
 Drones, with their innovation in flight, companion computers, control systems, and sensory advancements, are more than just flying machines. They represent human ingenuity and continue to integrate into our daily lives. 
