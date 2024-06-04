@@ -267,7 +267,10 @@ Although some sensors like IMU (Inertial Measurement Unit) for determining angul
 We can find out the information about the drones which are equipped with LIDAR, thermal, and many other types of sensors. Together with other components of a drone, these are mounted onto the device and applied in a variety of sectors.
 
 # Conclusion 
+Drones, with their innovation in flight, companion computers, control systems, and sensory advancements, are more than just flying machines. They represent human ingenuity and continue to integrate into our daily lives. 
 
+Hopefully the info was useful to you
+_**Thank you**_
 
 
 
