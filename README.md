@@ -242,9 +242,21 @@ Here are some just to name a few:
 - Jetson Nano
 
 
-for introduction purpose this should be enough if you are curious about it then you can visit for more info [Companion Computers](https://ardupilot.org/dev/docs/companion-computers.html#companion-computers)
+for introduction purpose this should be enough if you are curious about it then you can check out [Companion Computers](https://ardupilot.org/dev/docs/companion-computers.html#companion-computers)
 
 ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/jetson%20nano.jpeg)
 
 
-## Transmitter and receiver
+## Transmitter and receiver 
+### Transmitter 
+- A transmitter is a device that sends signals or data from one location to another. Its primary function is to take low-frequency information (the baseband signal) and transfer it to much higher frequencies by superimposing the baseband signal on a high-frequency carrier (usually a sine wave).
+- 
+
+
+
+
+
+
+
+
+
