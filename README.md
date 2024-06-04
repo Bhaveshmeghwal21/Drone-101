@@ -248,6 +248,9 @@ for introduction purpose this should be enough if you are curious about it then 
 
 
 ## Transmitter and receiver 
+
+![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/Radiolink%20tx%20rx.png)
+
 ### Transmitter TX
 - A transmitter is a device that sends signals or data from one location to another. Its primary function is to take low-frequency information (the baseband signal) and transfer it to much higher frequencies by superimposing the baseband signal on a high-frequency carrier (usually a sine wave).
 - For drones, the transmitter is the handheld device you use to control your drone. It typically has a set of sticks (joysticks) that allow you to input commands.
@@ -265,6 +268,11 @@ Remember, the transmitter-receiver duo is essential for controlling your drone e
 ## Sensors
 Although some sensors like IMU (Inertial Measurement Unit) for determining angular speed and acceleration, a barometer for height, 
 We can find out the information about the drones which are equipped with LIDAR, thermal, and many other types of sensors. Together with other components of a drone, these are mounted onto the device and applied in a variety of sectors.
+
+![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/thermal%20camera.jpg)
+
+_Thermal Camera_
+
 
 # Conclusion 
 Drones, with their innovation in flight, companion computers, control systems, and sensory advancements, are more than just flying machines. They represent human ingenuity and continue to integrate into our daily lives. 
