@@ -166,6 +166,7 @@ Here is a list of current protocols used on quadcopters, from oldest to latest:
 - Multishot
 - DShot
 - ProShot
+
 To know more about it refer to [Electronics Speed controller calibration Protocol](https://robu.in/what-is-oneshot-and-multishot-in-esc-difference-between-oneshot-and-multishot-esc-esc-calibration-protocol/)
 ### 8. ESC Processors
 Most ESCs use processors from ATMEL, Silabs, and ARM Cortex. All these processors have different features and specifications and support different firmware.
