@@ -248,9 +248,31 @@ for introduction purpose this should be enough if you are curious about it then 
 
 
 ## Transmitter and receiver 
-### Transmitter 
+### Transmitter TX
 - A transmitter is a device that sends signals or data from one location to another. Its primary function is to take low-frequency information (the baseband signal) and transfer it to much higher frequencies by superimposing the baseband signal on a high-frequency carrier (usually a sine wave).
-- 
+- For drones, the transmitter is the handheld device you use to control your drone. It typically has a set of sticks (joysticks) that allow you to input commands.
+
+### Recevier RX
+- The receiver is installed inside the drone.
+- It receives the signals sent by the transmitter.
+- Once received, the receiver passes this information to the drone’s flight controller.
+- The flight controller processes the data and adjusts the drone’s motors and other components accordingly, making the drone move as per your commands.
+
+**Range:** The range depends on factors like transmitter power, receiver sensitivity, and antenna quality. Typically, radio links have a range of around 1 km under normal conditions.
+
+Remember, the transmitter-receiver duo is essential for controlling your drone effectively! 🚁✨
+
+## Sensors
+Although some sensors like IMU (Inertial Measurement Unit) for determining angular speed and acceleration, a barometer for height, 
+We can find out the information about the drones which are equipped with LIDAR, thermal, and many other types of sensors. Together with other components of a drone, these are mounted onto the device and applied in a variety of sectors.
+
+# Conclusion 
+
+
+
+
+
+
 
 
 
