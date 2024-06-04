@@ -228,5 +228,23 @@ Think of your desktop computer. On this desktop computer, you have things like c
 Well, the same concept applies for drones. What if you wanted to add some higher functionality into your drone that isn’t supplied out of the box, like gesture control, computer vision, python control, 4G drone telemetry, taco delivery etc? 
 
 That is where the companion computer steps in. This is the device that we can use to introduce new functionalities onto our drone. 
-### Flight Controller vs Companion Computer
+
+ALso, Companion Computers travel on the vehicle and communicate with (and control) the autopilot. The Companion Computer gets all the MAVLink data produced by the autopilot (including GPS data) and can use it to make intelligent decisions during flight. This enables a broad range of functionality, from computer mediated flight paths, though to very CPU intensive functionality such as vision processing.
+### Types of companion computers
+Just like flight controllers come in many different forms, so do companion computers. 
+
+Here are some just to name a few:
+
+- Raspberry Pi 4B
+- Raspberry Pi Zero
+- Orange Pi
+- Odroid
+- Jetson Nano
+
+
+for introduction purpose this should be enough if you are curious about it then you can visit for more info [Companion Computers](https://ardupilot.org/dev/docs/companion-computers.html#companion-computers)
+
 ![](https://github.com/Bhaveshmeghwal21/GIFs/blob/main/gif_summer_camp/jetson%20nano.jpeg)
+
+
+## Transmitter and receiver
